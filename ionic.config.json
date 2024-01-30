@@ -1,0 +1,7 @@
+{
+  "name": "mmbctourandtravel",
+  "type": "custom",
+  "integrations": {
+    "cordova": {}
+  }
+}
